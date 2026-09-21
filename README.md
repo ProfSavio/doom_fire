@@ -4,6 +4,13 @@ Projeto desenvolvido durante uma aula com o objetivo de estudar, de forma práti
 
 A ideia do projeto é reproduzir o famoso efeito de fogo do jogo **Doom**, representando cada pixel do fogo através de uma posição dentro de um array e utilizando uma paleta de cores para transformar os valores de intensidade em uma imagem.
 
+---
+<p align="center">
+  <img src="doom_fire.gif" width="600">
+</p>
+
+---
+
 # 🎯 Objetivos do projeto
 
 Durante o desenvolvimento deste projeto, são trabalhados principalmente os seguintes conceitos:
